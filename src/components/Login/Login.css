@@ -1,0 +1,49 @@
+
+
+.line{
+    max-width: 300px;
+    height: 2px;
+    width: 100%;
+    margin: auto;
+    }
+
+.line1{
+    background-image: linear-gradient(to right, #f4da24, #d96d0e);
+    float: right;
+    }
+
+.line2{
+    background-image: linear-gradient(to right, #d96d0e, #b51d29);
+    float: left;
+    }
+
+.goodnight{
+    max-height: 106px;
+    height: 100px; 
+    max-width: 100%;
+    position: relative;
+    margin:auto;
+    }
+
+.login-btn{
+        background-color: #111B24;
+        border: #FF7F00 2px solid;
+        border-radius: 50px;
+        height: 50px;
+        width: 260px;
+        padding: 0%;
+        margin-top: 10px ;
+        }
+    
+.login-btn span{
+        background-image: linear-gradient(to right, #f4da24,#be4c45,#b51d29);
+        -webkit-background-clip: text;
+        color: transparent;
+        font: italic bold 28pt Times;
+        word-spacing: 5px;
+        }
+
+.login-btn:hover{
+            border: #B7282E 2px solid;
+            cursor: pointer;
+        }    

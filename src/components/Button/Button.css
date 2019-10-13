@@ -1,0 +1,34 @@
+.btn{
+    line-height: 1;
+}
+
+.btn-home{
+    background-color: #111B24;
+    border: #FFBF5F 2px solid ;
+    border-radius: 10px;
+    height: 15%;
+    width: 85%;
+    color: white;
+    font-size: 24pt;
+    margin: 10px 20px;
+}
+
+.btn-org{
+    background-color: #111B24;
+    border: #FFBF5F 2px solid ;
+    border-radius: 20px;
+    height: 35px;
+    width: 100px;
+    color: #FFBF5F;
+    font-size: 14pt;
+}
+
+.btn-home:hover{
+    background-color: #FFBF5F;
+    color: #111B24;
+}
+
+.btn-org:hover{
+    background-color: #FFBF5F;
+    color: #111B24;
+}
